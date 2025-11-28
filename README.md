@@ -26,11 +26,11 @@ Cosmic Defender(Prev. Asteroid Dodge) is an exciting 3D space shooter game built
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/cosmic-defender.git
+   https://github.com/Pyx-hash/Cosmic-Defenders.git
    ```
 2. Navigate to the project directory:
    ```
-   cd cosmic-defender
+   cd Cosmic-Defenders
    ```
 3. Open `index.html` in a web browser, or set up a local server:
    ```
@@ -51,5 +51,6 @@ Cosmic Defender(Prev. Asteroid Dodge) is an exciting 3D space shooter game built
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
+
 
 This project is open source and available under the [MIT License](LICENSE).
